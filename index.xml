@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HASEEP-SPACE</title>
+    <link>http://example.org/</link>
+    <description>Recent content on HASEEP-SPACE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 24 Mar 2024 00:19:34 +0200</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
