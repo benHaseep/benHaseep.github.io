@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HASEEP-SPACE</title>
-    <link>http://example.org/</link>
+    <link>https://benHaseep.github.io/</link>
     <description>Recent content on HASEEP-SPACE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://benHaseep.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/about/</link>
+      <link>https://benHaseep.github.io/about/</link>
       <pubDate>Sun, 24 Mar 2024 00:19:34 +0200</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://benHaseep.github.io/about/</guid>
       <description></description>
     </item>
     
