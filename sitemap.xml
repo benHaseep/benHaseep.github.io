@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://benHaseep.github.io/about/</loc>
-    <lastmod>2024-03-24T00:19:34+02:00</lastmod>
+    <loc>https://benHaseep.github.io/blog/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
   </url><url>
     <loc>https://benHaseep.github.io/categories/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
   </url><url>
     <loc>https://benHaseep.github.io/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
   </url><url>
     <loc>https://benHaseep.github.io/tags/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
+  </url><url>
+    <loc>https://benHaseep.github.io/tags/%D8%B9%D9%84%D9%85-%D8%B4%D8%B1%D8%B9%D9%8A/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
+  </url><url>
+    <loc>https://benHaseep.github.io/categories/%D8%B9%D9%84%D9%85-%D8%B4%D8%B1%D8%B9%D9%8A/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
+  </url><url>
+    <loc>https://benHaseep.github.io/tags/%D9%81%D9%82%D9%87/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
+  </url><url>
+    <loc>https://benHaseep.github.io/blog/post/</loc>
+    <lastmod>2024-04-09T10:06:24+02:00</lastmod>
+  </url><url>
+    <loc>https://benHaseep.github.io/about/</loc>
+    <lastmod>2024-03-24T00:19:34+02:00</lastmod>
   </url>
 </urlset>
